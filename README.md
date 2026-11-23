@@ -1,74 +1,93 @@
 
-# Realtime Chat Application Using NodeJs and SocketIO
+# BuzzTalk 💬
 
-**Realtime Chat Application**
+### Real-Time Messaging Platform
 
-**Description:**
-A Realtime Chat Application built with Node.js and Socket.IO, providing instant messaging capabilities for users. Features include real-time updates, user authentication, multiple chat rooms, customizable profiles, emojis, typing indicators, and message history.
+BuzzTalk is a modern real-time chat application designed to provide a smooth and interactive communication experience.
 
-**Technology Stack:**
+Built using Node.js, Express.js and Socket.IO, BuzzTalk allows users to join a public chat room and exchange messages instantly.
+
+## ✨ Features
+
+- Modern responsive user interface
+- Real-time messaging using Socket.IO
+- Display-name based joining
+- User join and leave notifications
+- Online connection status
+- Message timestamps
+- Responsive mobile layout
+- Live message broadcasting
+
+## 🛠 Technology Stack
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+
+### Backend
 - Node.js
-- Socket.IO
 - Express.js
-- HTML/CSS/JavaScript
+- Socket.IO
 
-**Security:**
-- XSS Protection
-- Data Encryption
-- Rate Limiting
+### Deployment
+- GitHub Pages
+- Render
 
-**Conclusion:**
-Our Realtime Chat Application offers a seamless chatting experience, enabling users to connect and communicate instantly. With its robust technology stack and focus on security, it provides a safe and engaging platform for online conversations. Ideal for socializing, collaboration, or community building.
+## 📁 Project Structure
 
+```text
+BuzzTalk/
+│
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── client.js
+├── nodeServer/
+│   ├── index.js
+│   └── package.json
+├── .gitignore
+└── README.md
+```
 
-## 🛠 Skills
-Javascript, HTML, CSS...
+## 🚀 Installation
 
+Clone the repository:
 
-## Deployment
+```bash
+git clone YOUR_GITHUB_REPOSITORY_URL
+```
 
-Step 1. Open your VS Code terminal
-Press:
+Navigate into the project:
 
-Ctrl + ~
-Step 2. Navigate to the backend
+```bash
+cd BuzzTalk-Realtime-Chat
+```
+
+Install backend dependencies:
+
+```bash
 cd nodeServer
-
-Step 3. Install dependencies
 npm install
+```
 
-Wait for the installation to finish.
-Step 4. Start your backend
+Start the backend:
+
+```bash
 npm run dev
+```
 
-Expected output:
-BuzzTalk server running on port 8000
+Open the frontend using VS Code Live Server.
 
-(Backend running)
+## 🌐 Deployment
 
-Do not close this terminal.
-Step 5. Open another terminal
-Click the plus (+) icon in the VS Code terminal panel.
+Frontend: GitHub Pages
 
-Make sure you are in your main project directory.
+Backend: Render
 
-Run:
-npx live-server .
+## 👨‍💻 Author
 
-If it asks to install live-server, confirm with y.
+Raj Sharma
 
-Open the URL shown in your terminal. It is commonly:
-http://127.0.0.1:8080
-
-
-## Screenshots
-![0](https://github.com/N6si/Chat-App/assets/163670693/144a6ae2-f935-4790-a50d-81d7c7aede31)
-![op](https://github.com/N6si/Chat-App/assets/163670693/1de64524-1216-4a39-a65b-45fedf377cda)
-
-
-
-
-## Authors
-
-- [@Raj Sharma](https://github.com/N6si)
-
+GitHub: https://github.com/N6si
