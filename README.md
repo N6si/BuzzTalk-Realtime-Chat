@@ -82,9 +82,9 @@ Open the frontend using VS Code Live Server.
 
 ## 🌐 Deployment
 
-Frontend: GitHub Pages
+Frontend: GitHub Pages   https://n6si.github.io/BuzzTalk-Realtime-Chat/
 
-Backend: Render
+Backend: Render  https://buzztalk-server.onrender.com
 
 ## 👨‍💻 Author
 
