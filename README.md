@@ -1,3 +1,7 @@
+<img width="1920" height="1032" alt="fdf" src="https://github.com/user-attachments/assets/be1741f8-20a9-40ad-83ba-5b308808b5a7" />
+<img width="1920" height="1027" alt="alex" src="https://github.com/user-attachments/assets/73cb9e05-df0e-49d8-a8ea-76ce3f3a8d07" />
+<img width="1920" height="1032" alt="eeee" src="https://github.com/user-attachments/assets/2cb8257f-7322-4c27-a3cc-1884cf3b07b7" />
+
 
 # BuzzTalk 💬
 
