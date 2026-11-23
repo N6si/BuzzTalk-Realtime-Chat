@@ -11,7 +11,7 @@ const SERVER_URL =
     window.location.hostname === "localhost" ||
     window.location.hostname === "127.0.0.1"
         ? "http://localhost:8000"
-        : "https://YOUR-RENDER-SERVICE.onrender.com";
+        : "https://buzztalk-server.onrender.com";
 
 const socket = io(SERVER_URL);
 
