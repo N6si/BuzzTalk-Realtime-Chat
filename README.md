@@ -27,12 +27,38 @@ Javascript, HTML, CSS...
 
 ## Deployment
 
-To start the node server
+Step 1. Open your VS Code terminal
+Press:
 
-```bash
-  cd ./nodeServer/   
-  nodemon ./index.js
-```
+Ctrl + ~
+Step 2. Navigate to the backend
+cd nodeServer
+
+Step 3. Install dependencies
+npm install
+
+Wait for the installation to finish.
+Step 4. Start your backend
+npm run dev
+
+Expected output:
+BuzzTalk server running on port 8000
+
+(Backend running)
+
+Do not close this terminal.
+Step 5. Open another terminal
+Click the plus (+) icon in the VS Code terminal panel.
+
+Make sure you are in your main project directory.
+
+Run:
+npx live-server .
+
+If it asks to install live-server, confirm with y.
+
+Open the URL shown in your terminal. It is commonly:
+http://127.0.0.1:8080
 
 
 ## Screenshots
