@@ -18,8 +18,6 @@ Built using Node.js, Express.js and Socket.IO, BuzzTalk allows users to join a p
 - Responsive mobile layout
 - Live message broadcasting
 
-https://i.postimg.cc/pL2jNnDX/fdf.jpg
-
 ## 🛠 Technology Stack
 
 ### Frontend
